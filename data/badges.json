@@ -1,0 +1,255 @@
+[
+    {
+        "id": "LegacyUsername",
+        "description": "Username#0000",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/username.png?raw=true",
+        "userIds": [],
+        "customizable": "legacyUsername"
+    },
+    {
+        "id": "Nitro",
+        "description": "Nitro Subscriber",
+        "iconSrc": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(1 Month)",
+        "description": "Nitro Subscriber — Bronze (1 Month)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/bronze.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(3 Months)",
+        "description": "Nitro Subscriber — Silver (3 Months)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/silver.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(6 Months)",
+        "description": "Nitro Subscriber — Gold (6 Months)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/gold.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(1 Year)",
+        "description": "Nitro Subscriber — Platinum (1 Year)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/platinum.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(2 Years)",
+        "description": "Nitro Subscriber — Diamond (2 Years)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/diamond.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(3 Years)",
+        "description": "Nitro Subscriber — Emerald (3 Years)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/emerald.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(5 year)",
+        "description": "Nitro Subscriber — Ruby (5 Years)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/ruby.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Nitro(6 year+)",
+        "description": "Nitro Subscriber — Opal (6 Years)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/subscriptions/badges/opal.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Boost(1 Month)",
+        "description": "Server Boosting — 1 Month",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost1.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(2 Months)",
+        "description": "Server Boosting — 2 Months",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost2.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(3 Months)",
+        "description": "Server Boosting — 3 Months",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost3.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(6 Months)",
+        "description": "Server Boosting — 6 Months",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost4.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(9 Months)",
+        "description": "Server Boosting — 9 Months",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost5.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(1 Years)",
+        "description": "Server Boosting — 1 Year",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost6.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(15 Months)",
+        "description": "Server Boosting — 15 Months",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost7.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(1.5 Year)",
+        "description": "Server Boosting — 18 Months",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost8.svg",
+        "userIds": []
+    },
+    {
+        "id": "Boost(2 Years)",
+        "description": "Server Boosting — 2 Years",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/boosts/discordboost9.svg",
+        "userIds": []
+    },
+    {
+        "id": "DiscordStaff",
+        "description": "Discord Staff",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordstaff.svg",
+        "userIds": []
+    },
+    {
+        "id": "DiscordPartner",
+        "description": "Partnered Server Owner",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordpartner.svg",
+        "userIds": []
+    },
+    {
+        "id": "OldDiscordPartner",
+        "description": "Partnered Server Owner (Old)",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/olddiscordpartner.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "DiscordMod",
+        "description": "Discord Moderator",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordmod.svg",
+        "userIds": []
+    },
+    {
+        "id": "OldDiscordMod",
+        "description": "Discord Moderator (Old)",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/olddiscordmod.svg",
+        "userIds": []
+    },
+    {
+        "id": "AutoMod",
+        "description": "AutoMod Power User",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/automod.svg",
+        "userIds": []
+    },
+    {
+        "id": "DiscordBotDev",
+        "description": "Early Verified Bot Developer",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordbotdev.svg",
+        "userIds": []
+    },
+    {
+        "id": "ActiveDeveloper",
+        "description": "Active Developer",
+        "iconSrc": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+        "userIds": []
+    },
+    {
+        "id": "PremiumBot",
+        "description": "Premium Bot",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/premiumbot.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "SupportCommands",
+        "description": "Supports Commands",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/supportscommands.svg",
+        "userIds": []
+    },
+    {
+        "id": "BugHunterGreen",
+        "description": "Bug Hunter Level 1",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordbughunter1.svg",
+        "userIds": ["932383287551344643"]
+    },
+    {
+        "id": "BugHunterGold",
+        "description": "Bug Hunter Level 2",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordbughunter2.svg",
+        "userIds": []
+    },
+    {
+        "id": "HypeSquadEvents",
+        "description": "HypeSquad Events",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/hypesquadevents.svg",
+        "userIds": []
+    },
+    {
+        "id": "HypeSquadBravery",
+        "description": "HypeSquad Bravery",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/hypesquadbravery.svg",
+        "userIds": ["932383287551344643"]
+    },
+    {
+        "id": "HypeSquadBrilliance",
+        "description": "HypeSquad Brilliance",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/hypesquadbrilliance.svg",
+        "userIds": []
+    },
+    {
+        "id": "HypeSquadBalance",
+        "description": "HypeSquad Balance",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/hypesquadbalance.svg",
+        "userIds": []
+    },
+    {
+        "id": "GoldenHypeSquad",
+        "description": "Golden HypeSquad Balance",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/goldenhypesquadbalance.svg",
+        "userIds": []
+    },
+    {
+        "id": "KOTHHypeSquad",
+        "description": "HypeSquad Balance (KOTH)",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/kothhypesquadbalance.svg",
+        "userIds": []
+    },
+    {
+        "id": "EarlySupporter",
+        "description": "Early Supporter",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/discordearlysupporter.svg",
+        "userIds": []
+    },
+    {
+        "id": "Quest",
+        "description": "Quest Completed",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/quest.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "LastMeadow",
+        "description": "Last Meadow",
+        "iconSrc": "https://github.com/mezotv/discord-badges/blob/main/assets/lastmeadow.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "Orb",
+        "description": "Orb",
+        "iconSrc": "https://raw.githubusercontent.com/mezotv/discord-badges/903490e45dc290e4d696b95631c5fc3a0885e9eb/assets/orb.svg",
+        "userIds": []
+    },
+    {
+        "id": "Sorcerer",
+        "description": "Sorcerer",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/Sorcerer.png?raw=true",
+        "userIds": []
+    }
+]
