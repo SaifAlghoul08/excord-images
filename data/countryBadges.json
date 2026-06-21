@@ -1,0 +1,92 @@
+[
+    {
+        "id": "USA",
+        "description": "United States Of America",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/united%20states%20of%20america%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "UK",
+        "description": "United Kingdom",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/united%20kingdom%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "DE",
+        "description": "Germany",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/germany%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "FR",
+        "description": "France",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/france%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "ES",
+        "description": "Spain",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/spain%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "IT",
+        "description": "Italy",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/italy%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "PL",
+        "description": "Poland",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/poland%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "NL",
+        "description": "Netherlands",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/netherlands%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "TR",
+        "description": "Turkey",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/turkey%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "SA",
+        "description": "Saudi Arabia",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/saudiarabia%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "AE",
+        "description": "United Arab Emirates",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/united%20arab%20emirates%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "JO",
+        "description": "Jordan",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/jordan%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "PS",
+        "description": "Palestine",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/palestine%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "CA",
+        "description": "Canada",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/canada%20badge.png?raw=true",
+        "userIds": []
+    },
+    {
+        "id": "BR",
+        "description": "Brazil",
+        "iconSrc": "https://github.com/SaifAlghoul08/excord-images/blob/main/brazil%20badge.png?raw=true",
+        "userIds": []
+    }
+]
